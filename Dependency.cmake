@@ -54,4 +54,4 @@ ExternalProject_Add(
     TEST_COMMAND ""
     )
 set(DEP_LIST ${DEP_LIST} dep_glad)
-set(DEP_LIBS ${DEP_LIBS} glad)
+set(DEP_LIBS ${DEP_LIBS} glad))
